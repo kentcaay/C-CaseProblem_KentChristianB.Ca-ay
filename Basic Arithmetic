@@ -6,13 +6,10 @@ int main() {
     printf("ID Number: 2025304334\n");
     printf("------------------------------\n");
 
-    // Declare variables
     int num1 = 10, num2 = 20, sum;
 
-    // Compute the sum
     sum = num1 + num2;
 
-    // Display result
     printf("Result: The sum of %d and %d is %d\n", num1, num2, sum);
 
     return 0;
